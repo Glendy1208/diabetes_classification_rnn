@@ -1,0 +1,1 @@
+link deploy : https://rnn-diabetes-classification.streamlit.app/
